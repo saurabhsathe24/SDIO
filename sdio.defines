@@ -1,0 +1,22 @@
+`define verbose
+
+
+`define POWER	'h00
+`define CLKCR 	'h04
+`define ARG		'h08
+`define CMD 	'h0c
+`define RESPCMD	'h10
+`define RESP1 	'h14
+`define RESP2	'h18
+`define RESP3	'h1c
+`define RESP4	'h20
+`define DTIMER	'h24
+`define DLEN	'h28
+`define DCTRL	'h2c
+`define DCOUNT	'h30
+`define STA		'h34
+`define ICR		'h38
+`define MASK	'h3c
+`define FIFOCNT	'h48
+`define DATAFIFO 'h80
+`define FINISH 'h84
